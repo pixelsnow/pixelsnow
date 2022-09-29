@@ -5,4 +5,5 @@
 - 🐝 About to start my studies at Hive Helsinki coding school
 - 👩🏻‍💻 C, C++, Javascript, Typescript, HTML, CSS
 - ✏️ Experienced in graphic and motion design
+- 💭 Having fun solving logical problems
 - 🍄 Love mushrooms, running, plants and art
