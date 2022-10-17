@@ -8,4 +8,4 @@
 - 💭 Having fun solving logical problems
 - 🍄 Love mushrooms, running, plants and art
 
-[LinkedIn](https://www.linkedin.com/in/valeria-vagapova-a577a9ba/) | [Codewars](https://www.codewars.com/users/pixelsnow) 
+[LinkedIn](https://www.linkedin.com/in/valeria-vagapova) | [Codewars](https://www.codewars.com/users/pixelsnow) 
