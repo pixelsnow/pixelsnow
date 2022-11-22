@@ -9,3 +9,5 @@
 - 🍄 Love mushrooms, running, plants and art
 
 [LinkedIn](https://www.linkedin.com/in/valeria-vagapova) | [Codewars](https://www.codewars.com/users/pixelsnow) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelsnow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
