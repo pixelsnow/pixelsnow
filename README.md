@@ -1,9 +1,9 @@
 
-### Hei, I'm Valerie! 👋
+### Hei, I'm Valerie!
 
 - 🎓 Currently learning Full-Stack Web Development at [Business College Helsinki](https://github.com/HelsinkiBusinessCollege)
 - 🐝 Currently studying at [Hive Helsinki](https://www.hive.fi/en/) coding school
-- 👩🏻‍💻 C, C++, Javascript, Typescript, HTML, CSS
+- 👩🏻‍💻 C, C++, Javascript, Typescript, React, HTML, CSS
 - ✏️ Experienced in graphic and motion design
 - 💭 Having fun solving logical problems
 - 🍄 Love mushrooms, running, plants and art
