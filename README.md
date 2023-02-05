@@ -1,5 +1,5 @@
 
-### Hei, I'm Valerie!
+### Hei, I'm Valeria!
 
 - 🐝 Currently studying at [Hive Helsinki](https://www.hive.fi/en/) coding school
 - 🎓 Currently learning Full Stack Web Development at [Business College Helsinki](https://github.com/HelsinkiBusinessCollege)
