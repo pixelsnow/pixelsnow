@@ -7,6 +7,6 @@
 - ✏️ Experienced in graphic and motion design
 - 🍄 Love mushrooms, running, plants and art
 
-[LinkedIn](https://www.linkedin.com/in/valeria-vagapova) | [Codewars](https://www.codewars.com/users/pixelsnow) 
+[LinkedIn](https://www.linkedin.com/in/valeria-vagapova) | [Codewars](https://www.codewars.com/users/pixelsnow)  (let's connect!)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelsnow&layout=compact&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
