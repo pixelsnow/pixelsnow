@@ -9,4 +9,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/valeria-vagapova) | [Codewars](https://www.codewars.com/users/pixelsnow)  (let's connect!)
 
+![alt Codewars rank 5](https://www.codewars.com/users/pixelsnow/badges/small)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelsnow&layout=compact&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
