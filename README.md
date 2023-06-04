@@ -1,6 +1,7 @@
 
 ### Hei, I'm Valeria!
 
+- 💻 Software developer intern at [FREE](https://free.fi/)
 - 🐝 Currently studying at [Hive Helsinki](https://www.hive.fi/en/) coding school
 - 🎓 Currently learning Full Stack Web Development at [Business College Helsinki](https://github.com/HelsinkiBusinessCollege)
 - 👩🏻‍💻 C, Javascript, Typescript, React, Redux, Node, Firebase, HTML, CSS
