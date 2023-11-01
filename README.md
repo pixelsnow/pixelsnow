@@ -1,9 +1,10 @@
 
 ### Hei, I'm Valeria!
 
+- 👩🏻‍💻 Integration Developer at [Bravedo](https://www.bravedo.fi/companies)
 - 🐝 Currently studying at [Hive Helsinki](https://www.hive.fi/en/)(42 network) coding school
 - 🎓 Currently learning Full Stack Web Development at [Business College Helsinki](https://github.com/HelsinkiBusinessCollege)
-- 👩🏻‍💻 C, Javascript, Typescript, React, Redux, Node, Firebase, HTML, CSS, C++, SQL, C#
+- 💻 C, Javascript, Typescript, React, Redux, Node, Firebase, HTML, CSS, C++, SQL
 - ✏️ Experienced in graphic and motion design
 - 🍄 Love mushrooms, running, plants and art
 
