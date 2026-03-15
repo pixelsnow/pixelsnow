@@ -2,10 +2,10 @@
 ### Hei, I'm Valeria!
 
 - 👩🏻‍💻 Integration Developer at [Bravedo](https://www.bravedo.fi/companies)
-- 🐝 Currently studying at [Hive Helsinki](https://www.hive.fi/en/)(42 network) coding school
+- 🐝 [Hive Helsinki](https://www.hive.fi/en/)(42 network) alumni
 - 💻 C, C++, Javascript, Typescript, React, Redux, Node, C#, LINQ
 - ✏️ Experienced in graphic and motion design
-- 🍄 Love mushrooms, running, plants and art
+- 🍄 Love mushrooms, running, birds and art
 
 [LinkedIn](https://www.linkedin.com/in/valeria-vagapova) | [Codewars](https://www.codewars.com/users/pixelsnow)  (let's connect!)
 
